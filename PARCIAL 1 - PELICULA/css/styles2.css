@@ -1,0 +1,120 @@
+body {
+    margin: auto;
+    text-align: center;
+    background-color: #612c008e;
+    font-family: "Winky Rough", sans-serif;
+}
+
+header {
+    background-color: #612c0049;
+    padding: 20px;
+    border-radius: 0 0 200px 200px;
+}
+
+.navLink {
+    border-radius: 10px;
+    padding: 5px 20px 5px 20px;
+    background-color: #612c002d;
+    font-size: 18px;
+    margin: 230px;
+}
+
+main {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+    letter-spacing: 5px;
+    color:rgb(99, 57, 3);
+    font-family: "Tagesschrift", system-ui; 
+    border-radius: 200px 200px 8px 8px;
+    background-color: rgba(94, 53, 3, 0.233);
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    text-align: left;
+    font-size: 25px;
+    color: #612c00cc;
+    font-family: "Tagesschrift", system-ui;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+p {
+    margin-left: 20px;
+    margin-right: 30px;
+    text-align: justify;
+}
+
+span {
+    color: #e4bf7a98;
+}
+
+img {
+    margin: 10px 20px 10px 20px;
+}
+
+li {
+    margin-bottom: 20px;
+    margin-right: 30px;
+    text-align: justify;
+}
+
+a { 
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.articleReparto {
+    display: flex;
+    margin-top: 20px;
+    background-color: rgba(94, 53, 3, 0.233);
+    border-radius: 8px;  
+}
+
+.divImagenes {
+    background-color: #612c0023;
+    text-align: left;
+    padding: 10px;
+    border-radius: 8px 0 0 8px;
+}
+
+.divListas {
+    text-align: left;
+    margin: 10px;
+}
+
+.imagenPersonajes {
+    width: 120px;
+    height: 160px;
+    border-radius: 8px;
+    border-style: groove;
+    border-color: rgb(0, 0, 0);
+}
+
+.imagenActores {
+    width: 120px;
+    height: 160px;
+    border-radius: 8px;
+    border-style: groove;
+    border-color: rgb(0, 0, 0);
+}
+
+footer {
+        background-color: #612c0049;
+        padding-bottom: 20px;
+        border-radius: 200px 200px 0 0;
+}
+
+.textoFooter {
+    font-size: 30px;
+    text-align: center;
+    padding: 10px;
+}
